@@ -4,6 +4,10 @@
 - I'm also fascinated by entrepreneurship and constantly exploring new ideas.
 - I'm open to collaborations and eager to work with other developers.
 - I welcome study groups and project collaborations.
+
+
+
+
   
 # 📚 Studying 📚
 
@@ -12,6 +16,10 @@
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+
+
+
+
 
 
 
