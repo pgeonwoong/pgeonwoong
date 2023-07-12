@@ -23,8 +23,6 @@
 
 
 
-# 🎯 돈 많이 벌기 🎯
 
-![](https://i.namu.wiki/i/6PcIzQcVdytCYsaLyfBk5rVHSN7tN30CnW6ahagyTxUXN2zwrDfj8Qbn42mLp-XjDCSHAbA_iu6iFqYLB6YvBuCLq1IQUZE1fr-k2HKAoEz00XAlW3JWTKzJYKQGxFzDlAq_alk-VMqFC7GsCGtNKw.webp)
 
 
