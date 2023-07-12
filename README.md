@@ -1,4 +1,4 @@
-# Hello there! I'm a developer studying at SSAFY 10th cohort.
+# Hello! I'm a developer studying at SSAFY 10th .
 
 - I have a interest in data processing with Python and machine learning.
 - I'm also fascinated by entrepreneurship and constantly exploring new ideas.
@@ -11,7 +11,4 @@
 - Data processing and analysis
 - Machine learning
 
-## Contact
-
-- Email: pgeonwoong@hanyang.ac.kr
 
