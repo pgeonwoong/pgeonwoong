@@ -13,7 +13,10 @@
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-# 🎯DREAM CAR🎯
+
+
+# 🎯 돈 많이 벌기 🎯
+
 ![](https://i.namu.wiki/i/6PcIzQcVdytCYsaLyfBk5rVHSN7tN30CnW6ahagyTxUXN2zwrDfj8Qbn42mLp-XjDCSHAbA_iu6iFqYLB6YvBuCLq1IQUZE1fr-k2HKAoEz00XAlW3JWTKzJYKQGxFzDlAq_alk-VMqFC7GsCGtNKw.webp)
 
 
